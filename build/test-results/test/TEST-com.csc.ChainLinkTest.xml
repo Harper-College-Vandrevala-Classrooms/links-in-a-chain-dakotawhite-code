@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.ChainLinkTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-11-17T21:01:31" hostname="Dakotas-Laptop.local" time="0.016">
+  <properties/>
+  <testcase name="testGetElementAtInvalidIndex()" classname="com.csc.ChainLinkTest" time="0.009"/>
+  <testcase name="testGetFromEmptyList()" classname="com.csc.ChainLinkTest" time="0.0"/>
+  <testcase name="testAppendMultipleItems()" classname="com.csc.ChainLinkTest" time="0.001"/>
+  <testcase name="testGetElementAtValidIndex()" classname="com.csc.ChainLinkTest" time="0.0"/>
+  <testcase name="testAppend()" classname="com.csc.ChainLinkTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
